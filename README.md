@@ -11,7 +11,7 @@ SNO-PI is a submission to SNOMED International's
 ## Paper
 
 Songsiritat P. *SNO-PI: Label-Scarce SNOMED CT Entity Linking with Pre-trained Encoders and Curated
-Terminology Knowledge.* 2026. [[PDF]](paper/SNO-PI_Songsiritat_2026.pdf)
+Terminology Knowledge.* arXiv:2610.26425, 2026. [[arXiv]](https://arxiv.org/abs/2610.26425)
 
 ## Data
 
